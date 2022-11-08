@@ -1,0 +1,1 @@
+from .test_resources import drugs_df, clinical_trials_df, pubmed_df
